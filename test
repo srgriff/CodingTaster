@@ -1,0 +1,7 @@
+person1  = [1, "Jane", "UK", "Student", 170]
+
+
+print("Lists element at index 1 is: ")
+
+print(person1[1])
+end
